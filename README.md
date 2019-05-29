@@ -1,5 +1,5 @@
 # prepare
-请在emlog官网( http://www.emlog.net/download )下载文, 将src文件夹拷贝到与Dockerfile同级下
+请在emlog官网( http://www.emlog.net/download )下载, 将src文件夹拷贝到与Dockerfile同级下
 ```
 --folder
   --Dockerfile
